@@ -1,6 +1,6 @@
 let input = prompt("What would you like to do!!");
 
-const todo = ['get empty people', 'carry chickens'];
+const todo = ['blessing should sub for ola', 'send money to the coder'];
 
 while(input !== "quit" && input !== "q"){
     if ( input === "list"){
